@@ -1,0 +1,13 @@
+requests
+pandas
+transformers
+torch
+streamlit
+gtts
+soundfile 
+feedparser 
+bs4 
+kagglehub
+googletrans 
+sentencepiece
+sacremoses

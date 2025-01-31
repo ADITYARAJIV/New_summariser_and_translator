@@ -1,0 +1,1 @@
+This project was a part of data science internhsip at Suvidha Mahila mandal

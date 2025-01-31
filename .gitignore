@@ -1,0 +1,9 @@
+config.py
+venv/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.env
+.idea/
+*.log
